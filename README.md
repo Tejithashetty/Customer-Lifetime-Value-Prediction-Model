@@ -1,10 +1,10 @@
-# 🧠 Customer Lifetime Value Prediction
+# Customer Lifetime Value Prediction
 
 This project focuses on predicting **Customer Lifetime Value (LTV)** using historical purchase and demographic data. The predicted LTV is used to assist in **targeted marketing** and **customer segmentation**.
 
 ---
 
-## 📁 Project Files
+## Project Files
 
 | Filename                | Description |
 |------------------------|-------------|
@@ -16,7 +16,7 @@ This project focuses on predicting **Customer Lifetime Value (LTV)** using histo
 
 ---
 
-## 🧪 Tech Stack
+## Tech Stack
 
 - Python
 - Scikit-learn
@@ -27,7 +27,7 @@ This project focuses on predicting **Customer Lifetime Value (LTV)** using histo
 
 ---
 
-## ⚙️ Workflow
+## Workflow
 
 1. **Data Preprocessing**  
    - Missing value handling  
